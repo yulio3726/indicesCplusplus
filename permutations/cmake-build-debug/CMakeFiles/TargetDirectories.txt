@@ -1,0 +1,3 @@
+C:/Users/julio/ClionProjects/permutations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julio/ClionProjects/permutations/cmake-build-debug/CMakeFiles/permutations.dir
+C:/Users/julio/ClionProjects/permutations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

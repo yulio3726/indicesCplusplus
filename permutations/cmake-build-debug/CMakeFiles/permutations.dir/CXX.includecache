@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/julio/ClionProjects/permutations/funciones.cpp
+funciones.h
+C:/Users/julio/ClionProjects/permutations/funciones.h
+
+C:/Users/julio/ClionProjects/permutations/funciones.h
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+bitset
+-
+chrono
+-
+random
+-
+algorithm
+-
+math.h
+-
+structures.h
+C:/Users/julio/ClionProjects/permutations/structures.h
+
+C:/Users/julio/ClionProjects/permutations/main.cpp
+funciones.h
+C:/Users/julio/ClionProjects/permutations/funciones.h
+
+C:/Users/julio/ClionProjects/permutations/structures.h
+

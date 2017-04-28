@@ -1,0 +1,3 @@
+C:/Users/julio/ClionProjects/pruebasCodigos/cmake-build-debug/CMakeFiles/pruebasCodigos.dir
+C:/Users/julio/ClionProjects/pruebasCodigos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julio/ClionProjects/pruebasCodigos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

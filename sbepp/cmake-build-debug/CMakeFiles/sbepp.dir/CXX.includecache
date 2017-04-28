@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/julio/ClionProjects/sbepp/funciones.cpp
+funciones.h
+C:/Users/julio/ClionProjects/sbepp/funciones.h
+
+C:/Users/julio/ClionProjects/sbepp/funciones.h
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+bitset
+-
+chrono
+-
+random
+-
+algorithm
+-
+math.h
+-
+structures.h
+C:/Users/julio/ClionProjects/sbepp/structures.h
+
+C:/Users/julio/ClionProjects/sbepp/main.cpp
+funciones.h
+C:/Users/julio/ClionProjects/sbepp/funciones.h
+
+C:/Users/julio/ClionProjects/sbepp/structures.h
+

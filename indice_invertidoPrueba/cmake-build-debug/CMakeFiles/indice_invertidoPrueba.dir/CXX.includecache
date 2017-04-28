@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/julio/ClionProjects/indice_invertidoPrueba/funciones.cpp
+funciones.h
+C:/Users/julio/ClionProjects/indice_invertidoPrueba/funciones.h
+
+C:/Users/julio/ClionProjects/indice_invertidoPrueba/funciones.h
+iostream
+-
+fstream
+-
+sstream
+-
+unordered_map
+-
+vector
+-
+string
+-
+chrono
+-
+random
+-
+structures.h
+C:/Users/julio/ClionProjects/indice_invertidoPrueba/structures.h
+
+C:/Users/julio/ClionProjects/indice_invertidoPrueba/main.cpp
+funciones.h
+C:/Users/julio/ClionProjects/indice_invertidoPrueba/funciones.h
+
+C:/Users/julio/ClionProjects/indice_invertidoPrueba/structures.h
+
